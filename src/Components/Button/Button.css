@@ -1,0 +1,48 @@
+
+
+:root{
+  --primary-color : #FA7070;
+  --secondary-color : #FEFDED;
+  --dark-green : #A1C398;
+  --light-green : #C6EBC5;
+  --dark-red : #D37676;
+}
+
+
+.btn {
+  padding: 0.6rem 0.8rem;
+  font-size: 1.2rem;
+  text-align: center;
+  border: 0;
+  outline: none;
+  border-radius: 10px;
+  width: 120px;
+  margin-left: 10px;
+  box-shadow: 1px -3px 52px -5px rgba(0,0,0,0.77);
+  cursor: pointer;
+
+}
+
+
+.btn.add{
+  background-color: var(--dark-green);
+  color: var(--secondary-color);
+}
+
+.btn.remove{
+  background-color: var(--primary-color);
+  color: var(--secondary-color);
+}
+
+.btn:active{
+  transform: scale(.97);
+}
+.btn.add:hover{
+  background-color: var(--light-green);
+  color: white;
+}
+.btn.remove:hover{
+  background-color: var(--dark-red);
+}
+
+

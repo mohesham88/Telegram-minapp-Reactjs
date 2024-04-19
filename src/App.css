@@ -1,0 +1,23 @@
+:root{
+  --bg-shape-color:linear-gradient(120deg,  #343A4F, #0F1620) ;
+  --lightblue: #3D9DEA;
+  --darkblue: #4A4EEE;
+  --text-color: #D5E1EF;
+}
+
+html,body{
+  width: 100%; 
+  min-height: 100vh;
+  background-image: linear-gradient(90deg, #414850, #131720);
+  color: var(--text-color);
+}
+
+.cards_container{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.heading{
+  text-align: center;
+}
