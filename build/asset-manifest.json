@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.54b2bd8f.css",
+    "main.js": "/static/js/main.de6f2089.js",
+    "static/media/dortmunt-kit.png": "/static/media/dortmunt-kit.8124232cc08c6d263a8c.png",
+    "static/media/arsenal-kit.png": "/static/media/arsenal-kit.dccee7d897c98cdaf367.png",
+    "static/media/real-madrid-kit.png": "/static/media/real-madrid-kit.f68f13706caa6ae285e1.png",
+    "static/media/manu-kit.png": "/static/media/manu-kit.e68a5d200c29def9c00d.png",
+    "static/media/barca-kit.png": "/static/media/barca-kit.a43aab6b225fa5d509fb.png",
+    "index.html": "/index.html",
+    "main.54b2bd8f.css.map": "/static/css/main.54b2bd8f.css.map",
+    "main.de6f2089.js.map": "/static/js/main.de6f2089.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.54b2bd8f.css",
+    "static/js/main.de6f2089.js"
+  ]
+}
